@@ -9,4 +9,4 @@ print(f'a  letra {letra} aparece {frase.count(letra)} vezes na frase:{frase}.')
 #find - busca por uma expressão dentro da fase
 #replace - ele é utilizado para realizar alterações dentro das strings
 #capitalize deixa a primeira letra das palavras maiúsculas 
-#split - transforma sua string em uma lista      
+#split - transforma sua string em uma lista
